@@ -44,6 +44,8 @@ Linux: make
 # TODO
 - Option to change the download directory
 
+- Option to change the filename to store
+
 - Show the download process
 
 # LINKS
