@@ -41,9 +41,10 @@ The plugin was removed from the webstore so only be installed manually.
 Init chrome or chromiun with --enable-easy-off-store-extension-install flag.
 
 For example:
-chromium-browser --enable-easy-off-store-extension-install
 
-Then, open [the extensions page](chrome://extensions/) and drag and drop [.crx file](https://github.com/r4mos/youtube-dl-simple-server/raw/master/bin/plugin/chrome-chromium/chrome-chromium.crx)
+	chromium-browser --enable-easy-off-store-extension-install
+
+Then, open the extensions page (chrome://extensions/) and drag and drop [.crx file](https://github.com/r4mos/youtube-dl-simple-server/raw/master/bin/plugin/chrome-chromium/chrome-chromium.crx)
 
 Finally, configure server and port.
 
