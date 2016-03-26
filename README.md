@@ -36,7 +36,7 @@ Files are downloaded to the following directory:
 To uninstall, delete the file youtube-dl-remote-server and the directory ~/.config/ydlrs
 
 ## CHROME-CHROMIUM PLUGIN
-he plugin was removed from the webstore so only be installed manually.
+The plugin was removed from the webstore so only be installed manually.
 
 Init chrome or chromiun with --enable-easy-off-store-extension-install flag.
 
