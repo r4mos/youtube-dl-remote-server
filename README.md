@@ -1,5 +1,8 @@
 youtube-dl-remote-server - download videos on your server from some video platforms via http requests using youtube-dl
 
+# WARNING
+This repository no longer updating. Please use [youtube-dl-chrome-plugin](https://github.com/r4mos/youtube-dl-chrome-plugin)
+
 # USAGE
 **youtube-dl-simple-server** [-h] [-v] [-u] [-s SERVER] [-p PORT] [--verbose]
 
